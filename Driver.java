@@ -7,17 +7,15 @@ public class Driver {
 		glad.glad();
 		Hungry.hungry();
 		Sad.sad();
-<<<<<<< HEAD
 		
 		
 		Hungry.superhungry();
 		
-=======
+
 			
 		glad.gladest();
 
 		Sad.sadder();
 
->>>>>>> branch 'main' of https://github.com/emu-computer-science/eclipseteamlab-team-7-darius-trevor-noah
 }
 }
