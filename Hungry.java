@@ -7,5 +7,9 @@ public class Hungry {
 	
 }
 
+	public static void superhungry() {
+		
+		System.out.println("were all super hungry");
+	}
 }
 
